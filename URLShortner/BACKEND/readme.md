@@ -20,13 +20,21 @@ It is built with **Node.js**, **Express.js**, and **MongoDB** to handle:
 
 ## 📂 Folder Structure
 BACKEND/
+
 │-- src/
+
 │ ├── config/ # DB connection and environment config
+
 │ ├── controller/ # Request handlers
+
 │ ├── DAO/ # Database access layer
+
 │ ├── middlewares/ # Authentication & error handling
+
 │ ├── models/ # Mongoose schemas
+
 │ ├── routes/ # API routes
+
 │ ├── services/ # Business logic
 │ ├── utils/ # Helper functions
 │-- server.js # Entry point
