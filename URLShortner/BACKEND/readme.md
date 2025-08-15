@@ -36,7 +36,11 @@ BACKEND/
 │ ├── routes/ # API routes
 
 │ ├── services/ # Business logic
+
 │ ├── utils/ # Helper functions
+
 │-- server.js # Entry point
+
 │-- package.json # Dependencies
+
 │-- .env.example # Sample env variables
